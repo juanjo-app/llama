@@ -1,0 +1,78 @@
+name: Build Your Own AI Stack con Llama
+description: Workshop completo sobre desarrollo de IA con Llama - incMTY + Meta AI + Secretaría de Economía
+
+# Theme configuration for GitHub Pages
+remote_theme: just-the-docs/just-the-docs@v0.7.0
+
+# Color scheme
+color_scheme: dark
+
+# Logo
+logo: "/assets/logo.png"
+
+# Search
+search_enabled: true
+search:
+  heading_level: 2
+  previews: 3
+  preview_words_before: 5
+  preview_words_after: 10
+  tokenizer_separator: /[\s/]+/
+  rel_url: true
+  button: false
+
+# Aux links
+aux_links:
+  "Ver en GitHub":
+    - "https://github.com/majorjuanjo/llama"
+  "Comunidad":
+    - "https://github.com/majorjuanjo/llama/discussions"
+
+# Footer
+footer_content: "Copyright &copy; 2025 incMTY + Meta AI. Distribuido bajo licencias MIT (código) y CC BY 4.0 (docs)."
+
+# Navigation
+nav_enabled: true
+nav_sort: case_insensitive
+
+# Back to top link
+back_to_top: true
+back_to_top_text: "Volver arriba"
+
+# Enable callouts
+callouts:
+  warning:
+    title: Advertencia
+    color: red
+  note:
+    title: Nota
+    color: blue
+  tip:
+    title: Consejo
+    color: green
+  important:
+    title: Importante
+    color: yellow
+
+# Plugins
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Exclude from processing
+exclude:
+  - node_modules/
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
+  - README.md
+  - LICENSE-CODE.md
+  - CONTRIBUTING.md
+  - CODE_OF_CONDUCT.md
+  - code/
+  - .github/
+  - .git/
+  - .gitignore
