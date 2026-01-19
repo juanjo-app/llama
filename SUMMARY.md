@@ -30,7 +30,7 @@
 * [2.5. Cumplimiento normativo](sesion-2/2.5.-cumplimiento-normativo.md)
 * [Guía para descargar y correr Llama localmente](sesion-2/guia-para-descargar-y-correr-llama-localmente.md)
 * [Guia para Llama en Windows con Hugging Face](sesion-2/guia-para-llama-en-windows-con-hugging-face.md)
-* [Copy of Guía para descargar y correr Llama localmente](sesion-2/copy-of-guia-para-descargar-y-correr-llama-localmente.md)
+* [Guía para descargar y correr Llama localmente](sesion-2/guia-para-descargar-y-correr-llama-localmente-1.md)
 * [Guía Llama en Bedrock](sesion-2/guia-llama-en-bedrock.md)
 * [Guia para Llama en Amazon Bedrock](sesion-2/guia-para-llama-en-amazon-bedrock.md)
 
