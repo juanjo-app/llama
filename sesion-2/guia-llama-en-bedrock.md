@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Guía Llama en Bedrock
 
 ***
