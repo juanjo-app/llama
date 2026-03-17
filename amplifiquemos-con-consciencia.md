@@ -43,7 +43,7 @@ Amplifiquemos.
 [**Juan José Domínguez Ochoa**](https://juanjo.app)\
 **https://juanjo.app**\
 [EXATEC](https://tec.mx/es/exatec) del ITESM CCM\
-Fundador de [AK7 - Amplifik AI Inc.](https://ak7.ai/) \
+Fundador de [Micelios por Amplifik AI Inc.](https://ak7.ai/) \
 \
 &#xNAN;_"La soberanía digital comienza por uno mismo."_
 
